@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/punk-beer-app/static/css/main.69df7815.css",
+    "main.js": "/punk-beer-app/static/js/main.d255aec0.js",
+    "static/js/787.5733fa16.chunk.js": "/punk-beer-app/static/js/787.5733fa16.chunk.js",
+    "index.html": "/punk-beer-app/index.html",
+    "main.69df7815.css.map": "/punk-beer-app/static/css/main.69df7815.css.map",
+    "main.d255aec0.js.map": "/punk-beer-app/static/js/main.d255aec0.js.map",
+    "787.5733fa16.chunk.js.map": "/punk-beer-app/static/js/787.5733fa16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69df7815.css",
+    "static/js/main.d255aec0.js"
+  ]
+}
